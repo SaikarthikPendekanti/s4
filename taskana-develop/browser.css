@@ -1,0 +1,9 @@
+.TopbarContingentUpgradeLink, /* Too much "sell" */
+.UpgradeButton,
+.BusinessUpgradeButton,
+.SidebarInvite,
+.TopbarSettingsMenu-upgrade,
+.TopbarHelpMenuButton-button, /* Most of these are in Taskana's Help menu */
+.FeatureStageIndicator-feedbackLink--withoutType {
+	display: none !important;
+}
